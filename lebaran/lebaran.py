@@ -7,4 +7,4 @@ if "y" in corona:
 else:
     a = 0
     for a in range(lebaran.__len__()):
-        print("\n", lebaran[a])
+        print("\nSaya akan ", lebaran[a])
